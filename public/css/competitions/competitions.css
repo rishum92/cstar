@@ -230,7 +230,7 @@ body a:focus{
 section.com_banner {
   float: left;
   width: 100%;
-  background-image: url("/cstar/public/img/competitions/banner.png");
+  background-image: url("/img/competitions/banner.png");
   height: 559px;
   background-position: center;
   background-size: cover;
@@ -260,7 +260,7 @@ section.com_banner {
   height: 192px;
   width: 203px;
   content: "";
-  background-image: url('/cstar/public/img/competitions/afterimg.png');
+  background-image: url('/img/competitions/afterimg.png');
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -684,7 +684,7 @@ section.com_banner {
     height: 267px;
   }
   .table_cell h1::after {
-    background-image: url('/cstar/public/img/competitions/afterimg1.png');
+    background-image: url('/img/competitions/afterimg1.png');
   }
   .table_block {
     height: 230px;
@@ -763,7 +763,7 @@ section.com_banner {
     height: 140px;
   }
   .table_cell h1::after {
-    background-image: url('/cstar/public/img/competitions/afterimg1.png');
+    background-image: url('/img/competitions/afterimg1.png');
   }
   .table_block {
     height: 145px;
@@ -841,7 +841,7 @@ section.com_banner {
     height: 130px;
   }
   .table_cell h1::after {
-    background-image: url('/cstar/public/img/competitions/afterimg1.png');
+    background-image: url('/img/competitions/afterimg1.png');
   }
   .table_block {
     height: 145px;
@@ -919,7 +919,7 @@ section.com_banner {
     height: 126px;
   }
   .table_cell h1::after {
-    background-image: url('/cstar/public/img/competitions/afterimg1.png');
+    background-image: url('/img/competitions/afterimg1.png');
   }
   .wrap_profile {
     min-height: 360px;
@@ -997,7 +997,7 @@ section.com_banner {
     height: 126px;
   }
   .table_cell h1::after {
-    background-image: url('/cstar/public/img/competitions/afterimg1.png');
+    background-image: url('/img/competitions/afterimg1.png');
   }
   .wrap_profile {
     min-height: 360px;
