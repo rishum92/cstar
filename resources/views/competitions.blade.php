@@ -109,7 +109,8 @@
            <br />
            <?php {
            if(Auth::check()) { ?>
-            @if(Auth::user()->username == 'Admin' || date('d/m/Y') < $showdate && date('d/m/Y') == $showdate)
+            @if(Auth::user()->username == 'Admin' && date('Y-m-d') >= $expire_date)
+
                 <button  onclick = "allcompetitiondelete()" type="button" class="all_competition_delete_button"><i class = "fa fa-trash "></i>  Delete All  </button>            
             @endif
           <?php } }?>  
